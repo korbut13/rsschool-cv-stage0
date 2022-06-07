@@ -22,5 +22,7 @@ ___
 ___
 * **VSMU** - Pharmacist
 
-
-
+## Languages
+___
+* **English** - Elementary
+* **Russian** - Native
