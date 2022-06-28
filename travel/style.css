@@ -88,7 +88,7 @@ body {
 	left: 0px;
 	z-index: 1;
 	width: 100%;
-	background-image: url(/assets/img/Heder.jpg);
+	background-image: url(./assets/img/Heder.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 771.38px;
@@ -245,18 +245,18 @@ h1 {
 }
 
 .destination__card_ind:nth-child(1) {
-	background-image: url(/assets/img/Destination\ 1.jpg);
+	background-image: url(./assets/img/Destination\ 1.jpg);
 	background-repeat: no-repeat;
 }
 
 .destination__card_ind:nth-child(2) {
-	background-image: url(/assets/img/Destination\ 2.jpg);
+	background-image: url(./assets/img/Destination\ 2.jpg);
 	background-repeat: no-repeat;
 	width: 806.67px;
 }
 
 .destination__card_ind:nth-child(3) {
-	background-image: url(/assets/img/Destination\ 3.jpg);
+	background-image: url(./assets/img/Destination\ 3.jpg);
 	background-repeat: no-repeat;
 
 }
@@ -396,7 +396,7 @@ h1 {
 	width: 229.9px;
 	height: 59.49px;
 	background: #0D606F;
-	background-image: url(/assets/svg/arrow.svg);
+	background-image: url(./assets/svg/arrow.svg);
 	background-repeat: no-repeat;
 	background-position: 31.26px 9.58px;
 	box-shadow: 0px 0px 3.025px rgba(13, 96, 111, 0.08), 0px 2.01667px 3.025px rgba(13, 96, 111, 0.16);
