@@ -74,7 +74,12 @@ body {
 	font-size: 16.1333px;
 	line-height: 21px;
 	color: #FFFFFF;
+	cursor: pointer;
+	transition: 0.8s;
+}
 
+.header__but:hover {
+	opacity: 0.6;
 }
 
 .preview {
@@ -158,6 +163,12 @@ h1 {
 	font-size: 24.2px;
 	line-height: 32px;
 	color: #FFFFFF;
+	cursor: pointer;
+	transition: 0.8s;
+}
+
+.search__btn:hover {
+	opacity: 0.6;
 }
 
 .steps {
@@ -186,8 +197,6 @@ h1 {
 	margin-bottom: 40.33px;
 }
 
-.steps__chois {}
-
 .steps_card {
 	display: block;
 	margin: 0 auto;
@@ -200,11 +209,11 @@ h1 {
 	font-size: 20.1667px;
 	line-height: 24px;
 	color: #0D606F;
-
 }
 
 .destinations {
-	margin-bottom: 80.67px;
+	width: 100%;
+	height: 1050.68px;
 }
 
 .destinations__head {
@@ -223,26 +232,83 @@ h1 {
 	width: 100%;
 	overflow-x: hidden;
 	height: 806.67px;
-	margin-bottom: 84.7px;
+	justify-content: space-around;
+	margin-bottom: 24.2px;
 }
 
 .destination__card_ind {
-	background-image: url(/assets/img/Destination\ 1.jpg);
-	background-repeat: no-repeat;
-	width: 806.67px;
 	margin: 0px 60.5px;
+	padding: 0;
+	background-size: cover;
+	position: relative;
+	border-radius: 16.1333px;
 }
 
-.destination__card_ind: :nth-child(2) {}
+.destination__card_ind:nth-child(1) {
+	background-image: url(/assets/img/Destination\ 1.jpg);
+	background-repeat: no-repeat;
+}
 
-/* .destinations__img_1::before {
-	display: block;
-	text-align: center;
-	content: counter(destinations__img_1);
-	line-height: 200px;
-	font-size: 80px;
-	color: white;
-} */
+.destination__card_ind:nth-child(2) {
+	background-image: url(/assets/img/Destination\ 2.jpg);
+	background-repeat: no-repeat;
+	width: 806.67px;
+}
+
+.destination__card_ind:nth-child(3) {
+	background-image: url(/assets/img/Destination\ 3.jpg);
+	background-repeat: no-repeat;
+
+}
+
+.destination__card_ind p {
+	width: 109px;
+	height: 43px;
+	font-family: 'Red Hat Text';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 32.2667px;
+	line-height: 43px;
+	color: #FFFFFF;
+	margin-top: 723.98px;
+	margin-left: 15.12px;
+	text-transform: uppercase;
+}
+
+.slider-buttons {
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	padding: 0px;
+	gap: 10.08px;
+	justify-content: center;
+	margin-bottom: 40.33px;
+}
+
+.eclipse {
+	width: 20.17px;
+	height: 20.17px;
+	background: rgba(242, 120, 92, 0.5);
+	border-radius: 100%;
+	cursor: pointer;
+	transition: all 0.8;
+}
+
+.eclipse:hover {
+	transform: scale(1.3);
+}
+
+.eclipse:nth-child(1) {
+	background: rgba(242, 120, 92, 0.5);
+}
+
+.eclipse:nth-child(2) {
+	background: #F2785C
+}
+
+.eclipse:nth-child(3) {
+	background: rgba(242, 120, 92, 0.5);
+}
 
 .stories__wrapper {
 	width: 100%;
@@ -344,7 +410,12 @@ h1 {
 	line-height: 32px;
 	color: #FFFFFF;
 	padding-bottom: 0px;
+	cursor: pointer;
+	transition: all 0.8s;
+}
 
+.stories__btn:hover {
+	opacity: 0.6;
 }
 
 footer {
@@ -377,4 +448,9 @@ footer {
 
 .footer__icons_link {
 	margin-right: 0.17px;
+	transition: all 0.8s;
+}
+
+.footer__link img:hover {
+	transform: scale(1.2);
 }
