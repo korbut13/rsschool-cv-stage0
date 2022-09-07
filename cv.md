@@ -1,10 +1,10 @@
 # **Svetlana Korbut**
-**********************
 
 
 ### **Contact information**
 
 **Phone:** +48451568107
+
 **E-mail:** svetlanaanatolevnakorbut@gmail.com
 
 [facebook](https://www.facebook.com/)
