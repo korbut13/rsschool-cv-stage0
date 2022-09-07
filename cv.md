@@ -54,6 +54,7 @@ function solution(str, ending){
 
 
 RS Schools Course "JavaScript/Front-end. Stage 0"
+
 Codewars
 
 
