@@ -1,24 +1,25 @@
-# **SVETLANA KORBUT**
-**********************
+# **Svetlana Korbut**
 **********************
 
 
-### **Contact information:**
+### **Contact information**
 
 **Phone:** +48451568107
 **E-mail:** svetlanaanatolevnakorbut@gmail.com
+
 [facebook](https://www.facebook.com/)
+
 [instagram](https://www.instagram.com/svetlana13_korbut/)
 
 *********************************
-*********************************
 
-### **About nyself**
 
-I am 30 years old. My specialty is pharmacist. I worked in a pharmacy for a long time. Now I am studying to become a successful developer. I used to take the Java Script stage 0 course.
+### **About myself**
+
+*I am 30 years old. My specialty is pharmacist. I worked in a pharmacy for a long time. Now I am studying to become a successful developer. I used to take the Java Script stage 0 course.*
 
 **************************************
-**************************************
+
 
 ### **Skills**
 
@@ -28,6 +29,41 @@ I am 30 years old. My specialty is pharmacist. I worked in a pharmacy for a long
 * SCSS
 * GIT/Github
 * VSCode
+
+**************************************
+
+### **Code Example**
+
+
+```
+function solution(str, ending){
+  let str1 = '';
+  for(let i = str.length - ending.length; i < str.length; i++){
+    str1 += (str[i]);
+  }
+  if(str1 === ending){
+    return true;
+  } else return false;
+}
+```
+
+
+**************************************************
+
+### **Courses**
+
+
+RS Schools Course "JavaScript/Front-end. Stage 0"
+Codewars
+
+
+*************************************************
+
+### **Languages**
+
+* Russian - native
+* English - pre-Intermediate
+* Polish - beginner
 
 
 
