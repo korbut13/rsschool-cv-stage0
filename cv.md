@@ -48,6 +48,15 @@ function solution(str, ending){
 
 **************************************************
 
+### **Projects**
+
+*Right now I only have one Unfinished Project*
+
+[Travel-part2] (https://korbut13.github.io/rsschool-cv/travel/)
+
+
+**************************************************
+
 ### **Courses**
 
 
