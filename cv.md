@@ -50,9 +50,9 @@ function solution(str, ending){
 
 ### **Projects**
 
-*Right now I only have one Unfinished Project*
+*Right now I only have one unfinished project*
 
-[Travel-part2] (https://korbut13.github.io/rsschool-cv/travel/)
+[Travel-part2](https://korbut13.github.io/rsschool-cv/travel/)
 
 
 **************************************************
