@@ -7,9 +7,7 @@
 
 **E-mail:** svetlanaanatolevnakorbut@gmail.com
 
-[facebook](https://www.facebook.com/)
-
-[instagram](https://www.instagram.com/svetlana13_korbut/)
+**Social networks:** [facebook](https://www.facebook.com/), [instagram](https://www.instagram.com/svetlana13_korbut/)
 
 *********************************
 
